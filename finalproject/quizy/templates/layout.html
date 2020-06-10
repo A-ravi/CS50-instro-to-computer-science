@@ -12,9 +12,15 @@
 <body>
 <!-- here will be heading-->
 <div class="main-container">
-`   <header>
+       <header>
         <div class="header">
-            <h1>Quizy</h1>
+            <h1><span class="v">Q</span>
+                <span class="i">u</span>
+                <span class="b">i</span>
+                <span class="y">z</span>
+                <span class="y">z</span>
+                <span class="g">y</span>
+            </h1>
         </div>
         <div class="pragraph">
             <p>A funny and interactive way to let your friends know you and you know them. </p>
@@ -23,14 +29,23 @@
     </header>
         <div class="content">
             <div class="create-link">
-                <a id="Create" href="#">Create your own quizy</a>
+                <a id="Create" href="#">Create your own quizzes</a>
             </div>
+            {% if not session.user %}
+            <form action="#" method="post">
             <div class="check">
                 <div class="username"><input autocomplete="off" placeholder="Id or email" type="text" name="name"></div>
                 <div class="pwd"><input placeholder="Password" autocomplete="off" type="password" name="password"></div>
-                <div class="submit"><input type="submit" value="Submit"></div>
+                <div class="submit"><input id="submit" type="submit" value="Submit"></div>
             </div>
+            </form>
+            {% end if %}
         </div>
 </div>
+<footer>
+    <div class="footer">
+        <p>This is a <a class="cs50" href="https://cs50.harvard.edu/x/2020">CS50</a> Final Project created by<a class="cs50" href="https://github.com/A-ravi"> Ravi Vishwakarma</a> </p>
+    </div>
+</footer>
 </body>
 </html>
