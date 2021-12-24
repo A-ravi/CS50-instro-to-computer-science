@@ -18,4 +18,4 @@
 4. Delete a todo.  
  ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-del.JPG "todo.py")  \
 5. Generate report of your todo's.  
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images//todo-report.JPG "todo.py")  \
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images//todo-report.JPG "todo.py")  
