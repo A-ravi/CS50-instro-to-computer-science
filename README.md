@@ -2,7 +2,7 @@
 
 ## **Todo's manager**
 
-![usage](cs50x-final-project/readme-images/todo.jpg "todo.py")
+![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo.JPG "todo.py")
   
 ### A ***command line utility*** for managing your todo list in a folder where your are working.
 
@@ -12,12 +12,12 @@
 > ## Things you can do:
 > 1.Check add todo in list.
 >
->  ![usage](cs50x-final-project/readme-images/todo-add.jpg "todo.py")
+>  ![usage](https://github.com/A-ravi/cs50x-final-project/readme-images/todo-add.jpg "todo.py")
 > 2. Check the list of todo.
-> ![usage](cs50x-final-project/readme-images/todo-add.jpg "todo.py")
+> ![usage](https://github.com/A-ravi/cs50x-final-project/readme-images/todo-add.jpg "todo.py")
 > 3. Marked todo as done.
-> ![usage](cs50x-final-project/readme-images/todo-done.jpg "todo.py")
+> ![usage](https://github.com/A-ravi/cs50x-final-project/readme-images/todo-done.jpg "todo.py")
 > 4. Delete a todo.
-> ![usage](cs50x-final-project/readme-images/todo-del.jpg "todo.py")
+> ![usage](https://github.com/A-ravi/cs50x-final-project/readme-images/todo-del.jpg "todo.py")
 > 5. Generate report of your todo's.
-> ![usage](cs50x-final-project/readme-images/todo-report.jpg "todo.py")
+> ![usage](https://github.com/A-ravi/cs50x-final-project/readme-images/todo-report.jpg "todo.py")
