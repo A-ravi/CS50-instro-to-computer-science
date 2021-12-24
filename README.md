@@ -10,12 +10,12 @@
 
 ## Things you can do:
 1.Check add todo in list.
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-add.JPG "todo.py")
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-add.JPG "todo.py") \
 2. Check the list of todo.
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-add.JPG "todo.py")
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-add.JPG "todo.py") \
 3. Marked todo as done.
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-done.JPG "todo.py")
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-done.JPG "todo.py") \
 4. Delete a todo.
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-del.JPG "todo.py")
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images/todo-del.JPG "todo.py") \
 5. Generate report of your todo's.
- ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images//todo-report.JPG "todo.py")
+ ![usage](https://github.com/A-ravi/cs50x-final-project/blob/master/project/readme-images//todo-report.JPG "todo.py") \
